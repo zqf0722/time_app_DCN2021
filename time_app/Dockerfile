@@ -1,4 +1,4 @@
-# The coding is written by Qifeng Zeng
+# The code is written by Qifeng Zeng
 
 FROM python:3.5
 
